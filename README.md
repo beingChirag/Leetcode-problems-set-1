@@ -2,4 +2,4 @@
 
 IN PROCESS
 
-This repository contains 250 easy leetcode solved problems from the starting problem number 1
+This repository contains 250 easy and medium leetcode solved problems from the starting problem number 1
